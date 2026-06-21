@@ -79,7 +79,7 @@ https://github.com/diptesh124/SUPER-STORE-SALES-DASHBOARD/blob/main/Screenshot%2
 
 ### Sales Forecast Dashboard
 
-![Forecast Dashboard](images/forecast.png)
+https://github.com/diptesh124/SUPER-STORE-SALES-DASHBOARD/blob/main/Screenshot%202.jpg
 
 ---
 
@@ -124,7 +124,7 @@ SuperStore-Sales-Dashboard/
 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/SuperStore-Sales-Dashboard.git
+git clone https://github.com/yourusername/SuperStore-Sales-Dashboard.gi
 ```
 
 2. Open the `.pbix` file in Power BI Desktop.
@@ -161,11 +161,7 @@ This dashboard enables businesses to:
 
 **Diptesh Das**
 
-📧 Email: your-email@example.com
-
-💼 LinkedIn: https://linkedin.com/in/your-profile
-
-🐙 GitHub: https://github.com/yourusername
+📧 Email: dasdiptesh350@gmail.com
 
 ---
 
