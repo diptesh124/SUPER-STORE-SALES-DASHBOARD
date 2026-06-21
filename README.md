@@ -76,11 +76,10 @@ The dataset contains:
 ### Sales Dashboard
 
 ![Sales Dashboard](https://github.com/diptesh124/SUPER-STORE-SALES-DASHBOARD/blob/main/Screenshot%201.jpg)
-https://github.com/diptesh124/SUPER-STORE-SALES-DASHBOARD/blob/main/Screenshot%201.jpg
 
 ### Sales Forecast Dashboard
 
-https://github.com/diptesh124/SUPER-STORE-SALES-DASHBOARD/blob/main/Screenshot%202.jpg
+![Forecast Dashboard](https://github.com/diptesh124/SUPER-STORE-SALES-DASHBOARD/blob/main/Screenshot%202.jpg)
 
 ---
 
