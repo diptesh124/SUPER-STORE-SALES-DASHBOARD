@@ -75,7 +75,7 @@ The dataset contains:
 
 ### Sales Dashboard
 
-![Sales Dashboard](images/dashboard.png)
+https://github.com/diptesh124/SUPER-STORE-SALES-DASHBOARD/blob/main/Screenshot%201.jpg
 
 ### Sales Forecast Dashboard
 
