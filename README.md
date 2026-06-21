@@ -124,7 +124,7 @@ SuperStore-Sales-Dashboard/
 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/SuperStore-Sales-Dashboard.gi
+git clone https://github.com/diptesh124/SUPER-STORE-SALES-DASHBOARD.git
 ```
 
 2. Open the `.pbix` file in Power BI Desktop.
